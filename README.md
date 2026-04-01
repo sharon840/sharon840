@@ -105,12 +105,7 @@ To start a career in cybersecurity where I can apply my skills in penetration te
 
 ## 📬 Contact
 
-* **Name:** Sharon Krishna
+* **Name:** Sharon Krishna NV
 * **GitHub:** https://github.com/sharon840
 * **Email:** [krishsharon847@gmail.com](mailto:krishsharon847@gmail.com)
 
----
-
-## ⚠️ Disclaimer
-
-All activities performed in this portfolio are in controlled environments for educational purposes only.
